@@ -1,8 +1,8 @@
 {
-  "name": "subzero-md",
+  "name": "karl-md",
   "version": "6.0.0",
-  "description": "SUBZERO-MD V6 — A fast, secure, and modular WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
-  "author": "Mr Frank OFC (Darrell Mucheri)",
+  "description": "KARL AI-MD V6 — A fast, secure, and modular WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
+  "author": "KARL AI MARX (MARX MURONZI)",
   "license": "MIT",
 
   "main": "index.js",
@@ -40,10 +40,10 @@
   ],
 
   "scripts": {
-    "start": "pm2 start index.js --name SUBZERO-MD --deep-monitoring",
-    "stop": "pm2 stop SUBZERO-MD",
-    "restart": "pm2 restart SUBZERO-MD",
-    "logs": "pm2 logs SUBZERO-MD",
+    "start": "pm2 start index.js --name karl-md --deep-monitoring",
+    "stop": "pm2 stop karl-md",
+    "restart": "pm2 restart karl-md",
+    "logs": "pm2 logs karl-md",
     "status": "pm2 status",
     "dev": "node index.js",
     "clean": "rm -rf node_modules package-lock.json",
