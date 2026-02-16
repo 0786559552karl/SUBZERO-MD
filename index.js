@@ -9,11 +9,11 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-@ Project Name : SubZero MD
-* Creator      : Darrell Mucheri ( Mr Frank OFC )
+@ Project Name : KARL AI MD
+* Creator      : MARX MURONZI( KARL AI)
 * My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/263776046121
-* Channel      : https://whatsapp.com/channel/0029Vb7D70MI7BeC0xUnKb05
+* Contact      : wa.me/777965084
+* Channel      : https://whatsapp.com/channel/0029VbBPmPW89injjH39gk3L
 * Release Date : 15 December 2024 12.01 AM
 */
 
